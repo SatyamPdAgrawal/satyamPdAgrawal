@@ -51,10 +51,10 @@
 ---
 ## 🚀 About Me
 
-🎓 First-Year B.Tech Computer Science & Engineering Student
+🎓 Second-Year B.Tech Computer Science & Engineering Student
 💻 Passionate about Programming, AI, and Full Stack Development
 🌱 Currently Learning:
-- Java & DSA
+- C++ & DSA
 - Python
 - Full Stack Web Development (MERN)
 - Git & GitHub
